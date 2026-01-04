@@ -94,7 +94,7 @@ Matplotlib / Seaborn (for EDA)
 ## 🚀 How to Run the Project
 🔹 Step 1: Clone the Repository
 ```
-git clone <repository-url>
+git clone https://github.com/MANPREETS47/Heart-Disease.git
 cd heart-disease-prediction
  ```
 🔹 Step 2: Install Dependencies
@@ -105,6 +105,7 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+
 
 
 
