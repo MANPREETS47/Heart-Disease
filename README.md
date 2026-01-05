@@ -6,14 +6,6 @@ The Heart Disease Prediction System is a machine learning–based application de
 
 A Streamlit-based frontend is used to provide an interactive and user-friendly interface for predictions.
 
-## 🎯 Objectives
-
-To analyze medical data and predict heart disease risk
-
-To compare multiple classification algorithms and select the best-performing model
-
-To deploy the final model using a simple and interactive web interface
-
 ## 🧠 Machine Learning Approach
 🔹 Data Preprocessing
 
@@ -105,6 +97,7 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+
 
 
 
